@@ -8,3 +8,10 @@ Developed by kelompok 17
 5. Khaeruzzaman (Universitas Bina Bangsa - Ilmu Komputer)
 6. Alvienda Ricka Seviana ( Universitas Trunojoyo Madura - Pendidikan Informatika)
 7. Virkayanti Andani Putri (Universitas Muslim Indonesia - Teknik Informatika)
+
+
+Note: Sebelum open projek nya diharapkan untuk install font yang sudah dilist dibawah ini dikarenakan projek kami tidak menggunakan library font dari luar
+- Poppins
+- Montserrat
+- Quicksand
+- Amatic SC
